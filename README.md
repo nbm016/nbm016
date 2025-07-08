@@ -72,12 +72,32 @@ https://youtu.be/_-p4YmCf5rM
   <b> Github Link: https://github.com/nbm016/little-lemon </b>
     
   </li>
-</ol>
+</ol> <br>
 
-### <b> Extracurriculars </b> <br><br>
+### <b> 🌟 Extracurriculars 🌟</b> <br>
 
-### <b> Passions </b> <br><br>
+<ol>
+  <li>
+    <b>Break Through Tech Fellow:</b> Machine Learning Foundations Course, AI Studio
+  </li>
 
-### <b> Contact </b> <br><br>
+  <li>
+    <b>Arts Scholars at University of Maryland, College Park:</b> Living-Learning Student, Arts Advisory Board, Arts Teaching Assistant
+  </li>
+</ol> <br>
 
+### <b> 💗 Passions 💗 </b> <br>
+<ul>
+  <li>Oil Painting</li>
+  <li>Sketching</li>
+  <li>Photography</li>
+  <li>Piano</li>
+</ul> <br>
+
+
+### <b> 💌 Contact 💌 </b> <br>
+<ul>
+  <li><b>LinkedIn:</b> https://www.linkedin.com/in/nivibmunjal/ </li>
+<li><b>Email: </b> nivibmunjal@gmail.com </li>
+</ul>
 
