@@ -16,11 +16,14 @@ Here are some ideas to get you started:
 -->
 
 ### <b> 🌸 About Nivi 🌸 </b> <br>
-Hello, my Name is Nivi Munjal! Welcome to my Github Gallery! <br>
-
-I am a Rising Senior at the University of Maryland, College Park. I am pursuing a Computer Science Major along with Two Minors in General Business and ACES (Advanced Cybersecurity Experience for Students). 
-
-From the rapid advancement of Technology, I have always been interested in how Technology can be used to solve complex and relevant problems present around the world. I have developed an interest in the Technological fields of Artificial Intelligence, Cybersecurity, Data Science, Machine Learning, Web Development, and more.
+Hello, my Name is Nivi Munjal! Welcome to my Github Gallery! <br><br>
+<!--
+![IMG_8819 - Copy 4](https://github.com/user-attachments/assets/928dbc76-1ba4-4f07-ab71-17fb8b0ecadf)
+-->
+<img src="https://github.com/user-attachments/assets/928dbc76-1ba4-4f07-ab71-17fb8b0ecadf" width="400">
+<br> <br>
+I am a Rising Senior at the University of Maryland, College Park. I am pursuing a Computer Science Major along with Two Minors in General Business and ACES (Advanced Cybersecurity Experience for Students). <br><br>
+From the rapid advancement of Technology, I have always been interested in how Technology can be used to solve complex and relevant problems present around the world. I have developed an interest in the Technological fields of Artificial Intelligence, Cybersecurity, Data Science, Machine Learning, Web Development, and more. <br><br>
 
 In addition to Technology, I have interests in Business and Art as well. I am always eager to combine my Technical, Business, and Creative interests! <br><br>
 
