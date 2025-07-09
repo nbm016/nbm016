@@ -48,7 +48,7 @@ This Bollywood Movies Data Analysis Project examines the financial outcomes (rev
 
 <b>Concepts:</b> Data Analysis, Data Gathering, Data Cleaning, Data Exploration, Data Visualizations, Hypothesis Testing. 
 
-<b>GitHub Repository Link to My Code and PowerPoint Presentation:</b> https://github.com/nbm016/bollywood-data-analysis
+<b>GitHub Repository Link to My Code and PowerPoint Presentation: https://github.com/nbm016/bollywood-data-analysis </b>
   </li><br>
 
   <li><b>Masala Mahal Final Project Website - Web Development - CMSC 335 Final Project</b><br>
@@ -63,7 +63,7 @@ https://youtu.be/_-p4YmCf5rM
 
 <b>Website Link:</b> https://masala-mahal.onrender.com/
 
-<b> Github Link: https://github.com/nbm016/masala-mahal-public-project </b>
+<b> Github Link:  https://github.com/nbm016/masala-mahal-public-project </b>
     
   </li> <br>
 
