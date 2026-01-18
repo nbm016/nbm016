@@ -59,10 +59,10 @@ Users can order Food dishes and reserve Art events of their choosing, where each
 
 <b>Programming Languages and Concepts:</b> HTML, CSS, JavaScript, NodeJS, ExpressJS, MongoDB, and APIs.
 
-<b>Demonstration Video:</b> 
-https://youtu.be/_-p4YmCf5rM 
+<b>Demonstration Video:
+https://youtu.be/_-p4YmCf5rM </b> 
 
-<b>Website Link:</b> https://masala-mahal.onrender.com/
+<b>Website Link: https://masala-mahal.onrender.com/ </b>
 
 <b> Github Link:  https://github.com/nbm016/masala-mahal-public-project </b>
     
