@@ -30,7 +30,7 @@ In addition to Technology, I have interests in Business and Art as well. I am al
 
 ### <b> 💻 Tech Stack 💻 </b> <br>
 <ul>
-  <li><b>Languages:</b> Python, Java, C, R, Kotlin, OCaml, Rust, MATLAB</li>
+  <li><b>Languages:</b> Python, Java, C, R, SQL, Kotlin, OCaml, Rust, MATLAB</li>
   <li><b>Tools:</b> VSCode, Git, GitHub, Jupyter Notebook, Google Colab, Unix/Linux, R Studio, Eclipse, MobaXterm</li>
   <li><b>Data Science:</b> Pandas, SciPy Stats, Seaborn, MatPlotLib, Scikit-Learn, NumPy </li>
   <li><b>Cybersecurity:</b> Linux, Bash, Python Data Statistics and Visualization </li>
