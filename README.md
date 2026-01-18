@@ -33,7 +33,7 @@ In addition to Technology, I have interests in Business and Art as well. I am al
   <li><b>Languages:</b> Python, Java, C, R, SQL, Kotlin, OCaml, Rust, MATLAB</li>
   <li><b>Tools:</b> VSCode, Git, GitHub, Jupyter Notebook, Google Colab, Unix/Linux, R Studio, Eclipse, MobaXterm</li>
   <li><b>Data Science:</b> Pandas, SciPy Stats, Seaborn, MatPlotLib, Scikit-Learn, NumPy </li>
-  <li><b>Cybersecurity:</b> Linux, Bash, Python Data Statistics and Visualization </li>
+  <li><b>Cybersecurity:</b> Linux, Bash, VirusTotal, OpenCTI, Cyber Threat Intelligence Analysis and Technical Writing, Python Data Statistics and Visualization </li>
   <li><b>Web Development:</b> HTML, CSS, JavaScript, Node.js, Express.js, Ejs (Embedded JavaScript), MongoDB, APIs </li>
   <li><b>App Development:</b> Kotlin, Android Studio, Google Firebase </li>
 </ul> <br>
