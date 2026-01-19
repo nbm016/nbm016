@@ -40,7 +40,45 @@ In addition to Technology, I have interests in Business and Art as well. I am al
 
 ### <b> 🎨 My Project Gallery 🎨 </b> <br>
 <ol>
-  <li><b>Bollywood Movies Analysis Project - Data Science - Personal Project </b><br>
+  <!-- 1 -->
+  <li><b>Multi-Modal Skin Condition Classification - AI/ML - Skinterest Tech 2A (Break Through Tech AI – Fall AI Studio Group Project) </b><br><br>
+    Team Skinterest Tech 2A’s Break Through Tech AI - Fall AI Studio Project was in collaboration with the organization Skinterest Tech. Skinterest Tech aims to advance the intersection of dermatology and technology by developing inclusive skin analysis solutions for diverse backgrounds. <br><br>
+    This project’s purpose was to utilize artificial intelligence, machine learning, and computer vision methods to classify skin conditions among diverse population subgroups with a focus on diversity inclusion, representation, and fairness. 
+
+<b>Dataset:</b> Google Skin Condition Image Network (SCIN) Google Dataset (https://research.google/blog/scin-a-new-resource-for-representative-dermatology-images/, https://github.com/google-research-datasets/scin)
+
+<b>Programming Languages and Libraries:</b> Python, Pandas, TensorFlow, Scikit-Learn, SciPy, Matplotlib, OpenCV, ImageDedup, CleanVision – ImageLab
+
+<b>Artificial Intelligence / Machine Learning Concepts:</b> Data Cleaning, Exploration, Preprocessing, and Visualization. Model Building, Training, Evaluation, and Iteration. 
+
+<b>Models:</b> Convolutional Neural Network (CNN) and ResNet-50 for Image Classification Tasks
+
+<b>Tools:</b> Google Colab Notebooks, Google Cloud Storage (Dataset Storage/Access)
+
+<b>GitHub Repository Link to See Our Full Project Overview, Notebooks, and Presentation Slides: https://github.com/nbm016/multimodal_skin_condition_classification_skinterest_tech_2a </b>
+  </li><br>
+
+  <!-- 2 -->
+  
+<li><b>World Happiness Report Model Analysis - AI/ML - Individual Break Through Tech AI Project</b><br><br>
+    This model development and analysis project implemented and fine-tuned Machine Learning Models to predict Happiness (Life Ladder) scores given social, financial, and geographic data for 164 countries. In addition, the analysis identified which factors contribute the most towards happiness score predictions.
+
+<b>Dataset:</b> World Happiness 2018 CSV and Excel Files
+
+<b>Programming Languages and Libraries:</b> Python, Pandas, Scikit-Learn / Sklearn, Seaborn, MatPlotLib, NumPy
+
+<b>AI/ML Concepts:</b> Data Cleaning, Exploration, Preprocessing, and Visualization. Model Building, Training, Evaluation, and Iteration. 
+
+<b>Models:</b> Random Forest Regressor (Ensemble Learning Method), Linear Regression
+
+<b>Tools:</b> Jupyter Notebook, GitHub
+
+<b>GitHub Link: https://github.com/nbm016/world-happiness-report-model-analysis </b>
+  </li><br>
+
+  <!-- 3 -->
+  
+  <li><b>Bollywood Movies Analysis Project - Data Science - Personal Project </b><br><br>
     I performed a Bollywood Movies Analysis of Bollywood Hindi Movies, which includes a Jupyter Notebook Code File analyzing a Kaggle Dataset and PowerPoint Presentation of the Data Analysis results. 
 
 This Bollywood Movies Data Analysis Project examines the financial outcomes (revenues, profitability), genres, box office collections, top actors and actresses, and ratings of Bollywood Hindi Movies from 2005 to 2017. Insights from this Data Analysis were used to develop conclusions and future predictions/analysis about the Bollywood Industry. 
@@ -51,8 +89,10 @@ This Bollywood Movies Data Analysis Project examines the financial outcomes (rev
 
 <b>GitHub Repository Link to My Code and PowerPoint Presentation: https://github.com/nbm016/bollywood-data-analysis </b>
   </li><br>
+  
+<!-- 4 -->
 
-  <li><b>Masala Mahal Final Project Website - Web Development - CMSC 335 Final Project</b><br>
+  <li><b>Masala Mahal Final Project Website - Web Development - CMSC 335 Final Project</b><br><br>
   I created and designed a Website for an Indian Restaurant and Arts Business named “Masala Mahal”, where Indian Cuisine meets Creativity. 
 
 Users can order Food dishes and reserve Art events of their choosing, where each user’s session gets stored in a checkout cart. Node.js and Express.js were utilized in this project to smoothly transition between different webpage endpoints. MongoDB is also used to facilitate the state of the checkout cart through storing the user’s choices. 
@@ -66,16 +106,6 @@ https://youtu.be/_-p4YmCf5rM </b>
 
 <b> Github Link:  https://github.com/nbm016/masala-mahal-public-project </b>
     
-  </li> <br>
-
-  <li> <b>Little Lemon Website - Web Development </b><br>
-  I created a Front-End Website for the Little Lemon Restuarant. This website includes menu navigation, food ordering, and reservation. 
-
-  <b>Programming Languages and Concepts:</b> HTML, CSS, JavaScript, React.
-
-  <b> Github Link: https://github.com/nbm016/little-lemon </b>
-    
-  </li>
 </ol> <br>
 
 ### <b> 🌟 Extracurriculars 🌟</b> <br>
