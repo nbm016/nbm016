@@ -44,7 +44,7 @@ In addition to Technology, I have interests in Business and Art as well. I am al
   <li><b>Multi-Modal Skin Condition Classification - AI/ML - Skinterest Tech 2A (Break Through Tech AI – Fall AI Studio Group Project) </b><br><br>
     <img width="807" height="770" alt="image" src="https://github.com/user-attachments/assets/962bca02-9613-407e-92af-4b4658c273fa" />
     <img width="805" height="772" alt="image" src="https://github.com/user-attachments/assets/3ebfbcc4-ae13-4160-98b2-89127a3d733c" />
-    <br><br>
+    <br><br><br>
     Team Skinterest Tech 2A’s Break Through Tech AI - Fall AI Studio Project was in collaboration with the organization Skinterest Tech. Skinterest Tech aims to advance the intersection of dermatology and technology by developing inclusive skin analysis solutions for diverse backgrounds. <br><br>
     This project’s purpose was to utilize artificial intelligence, machine learning, and computer vision methods to classify skin conditions among diverse population subgroups with a focus on diversity inclusion, representation, and fairness. 
 
@@ -93,8 +93,10 @@ This model development and analysis project implemented and fine-tuned Machine L
 
   <!-- 3 -->
   
-  <li><b>Bollywood Movies Analysis Project - Data Science - Personal Project </b><br><br>
-    I performed a Bollywood Movies Analysis of Bollywood Hindi Movies, which includes a Jupyter Notebook Code File analyzing a Kaggle Dataset and PowerPoint Presentation of the Data Analysis results. 
+<li><b>Bollywood Movies Analysis Project - Data Science - Personal Project </b><br><br>
+<img width="1205" height="768" alt="image" src="https://github.com/user-attachments/assets/f9b00755-97c2-4b0b-af51-562463c7b3c1" />
+<br><br><br>
+I performed a Bollywood Movies Analysis of Bollywood Hindi Movies, which includes a Jupyter Notebook Code File analyzing a Kaggle Dataset and PowerPoint Presentation of the Data Analysis results. 
 
 This Bollywood Movies Data Analysis Project examines the financial outcomes (revenues, profitability), genres, box office collections, top actors and actresses, and ratings of Bollywood Hindi Movies from 2005 to 2017. Insights from this Data Analysis were used to develop conclusions and future predictions/analysis about the Bollywood Industry. 
 
