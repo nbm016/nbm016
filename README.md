@@ -43,8 +43,8 @@ In addition to Technology, I have interests in Business and Art as well. I am al
 <ol>
   <!-- 1 -->
   <li><b>Multi-Modal Skin Condition Classification - AI/ML - Skinterest Tech 2A (Break Through Tech AI – Fall AI Studio Group Project) </b><br><br>
-    <img width="807" height="770" alt="image" src="https://github.com/user-attachments/assets/962bca02-9613-407e-92af-4b4658c273fa" />
-    <img width="805" height="772" alt="image" src="https://github.com/user-attachments/assets/3ebfbcc4-ae13-4160-98b2-89127a3d733c" />
+    <img width="1207" height="770" alt="image" src="https://github.com/user-attachments/assets/962bca02-9613-407e-92af-4b4658c273fa" />
+    <img width="1205" height="772" alt="image" src="https://github.com/user-attachments/assets/3ebfbcc4-ae13-4160-98b2-89127a3d733c" />
     <br><br><br>
     Team Skinterest Tech 2A’s Break Through Tech AI - Fall AI Studio Project was in collaboration with the organization Skinterest Tech. Skinterest Tech aims to advance the intersection of dermatology and technology by developing inclusive skin analysis solutions for diverse backgrounds. <br><br>
     This project’s purpose was to utilize artificial intelligence, machine learning, and computer vision methods to classify skin conditions among diverse population subgroups with a focus on diversity inclusion, representation, and fairness. 
@@ -110,8 +110,10 @@ This Bollywood Movies Data Analysis Project examines the financial outcomes (rev
   
 <!-- 4 -->
 
-  <li><b>Masala Mahal Final Project Website - Web Development - CMSC 335 Final Project</b><br><br>
-  I created and designed a Website for an Indian Restaurant and Arts Business named “Masala Mahal”, where Indian Cuisine meets Creativity. 
+<li><b>Masala Mahal Final Project Website - Web Development - CMSC 335 Final Project</b><br><br>
+<img width="1290" height="797" alt="image" src="https://github.com/user-attachments/assets/b283ad91-3eea-4c39-9b1f-c041c236f855" /> <br><br>
+
+I created and designed a Website for an Indian Restaurant and Arts Business named “Masala Mahal”, where Indian Cuisine meets Creativity. 
 
 Users can order Food dishes and reserve Art events of their choosing, where each user’s session gets stored in a checkout cart. Node.js and Express.js were utilized in this project to smoothly transition between different webpage endpoints. MongoDB is also used to facilitate the state of the checkout cart through storing the user’s choices. 
 
