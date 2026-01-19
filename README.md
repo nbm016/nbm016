@@ -57,6 +57,11 @@ In addition to Technology, I have interests in Business and Art as well. I am al
 
 <b>GitHub Repository Link to See Our Full Project Overview, Notebooks, and Presentation Slides: https://github.com/nbm016/multimodal_skin_condition_classification_skinterest_tech_2a </b>
   </li><br>
+<!-- width="907" height="670" -->
+  <img width="807" height="770" alt="image" src="https://github.com/user-attachments/assets/962bca02-9613-407e-92af-4b4658c273fa" />
+  <img width="805" height="772" alt="image" src="https://github.com/user-attachments/assets/3ebfbcc4-ae13-4160-98b2-89127a3d733c" />
+<br><br><br>
+
 
   <!-- 2 -->
   
