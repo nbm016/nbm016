@@ -70,8 +70,10 @@ In addition to Technology, I have interests in Business and Art as well. I am al
 
   <!-- 2 -->
   
-<li><b>World Happiness Report Model Analysis - AI/ML - Individual Break Through Tech AI Project</b><br><br>
-    This model development and analysis project implemented and fine-tuned Machine Learning Models to predict Happiness (Life Ladder) scores given social, financial, and geographic data for 164 countries. In addition, the analysis identified which factors contribute the most towards happiness score predictions.
+<li><b>World Happiness Report Model Analysis - AI/ML - Individual Break Through Tech AI Project</b> <br><br>
+<img width="1287" height="797" alt="image" src="https://github.com/user-attachments/assets/dbe934d8-1ca1-4cd2-8743-fad2ed80bd6a" /> <br><br>
+
+This model development and analysis project implemented and fine-tuned Machine Learning Models to predict Happiness (Life Ladder) scores given social, financial, and geographic data for 164 countries. In addition, the analysis identified which factors contribute the most towards happiness score predictions.
 
 <b>Dataset:</b> World Happiness 2018 CSV and Excel Files
 
@@ -86,7 +88,7 @@ In addition to Technology, I have interests in Business and Art as well. I am al
 <b>GitHub Link: https://github.com/nbm016/world-happiness-report-model-analysis </b>
   </li><br>
 
-<kbd><img width="456" height="537" alt="image" src="https://github.com/user-attachments/assets/ae71be2a-6d70-4d77-966e-5352a385a252" /></kbd> <br><br><br>
+<!-- <kbd><img width="456" height="537" alt="image" src="https://github.com/user-attachments/assets/ae71be2a-6d70-4d77-966e-5352a385a252" /></kbd> <br><br><br> -->
 
 
   <!-- 3 -->
