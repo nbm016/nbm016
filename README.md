@@ -86,7 +86,7 @@ In addition to Technology, I have interests in Business and Art as well. I am al
 <b>GitHub Link: https://github.com/nbm016/world-happiness-report-model-analysis </b>
   </li><br>
 
-<kbd><img width="456" height="537" alt="image" src="https://github.com/user-attachments/assets/ae71be2a-6d70-4d77-966e-5352a385a252" /></kbd> <br><br>
+<kbd><img width="456" height="537" alt="image" src="https://github.com/user-attachments/assets/ae71be2a-6d70-4d77-966e-5352a385a252" /></kbd> <br><br><br>
 
 
   <!-- 3 -->
@@ -101,7 +101,7 @@ This Bollywood Movies Data Analysis Project examines the financial outcomes (rev
 <b>Concepts:</b> Data Analysis, Data Gathering, Data Cleaning, Data Exploration, Data Visualizations, Hypothesis Testing. 
 
 <b>GitHub Repository Link to My Code and PowerPoint Presentation: https://github.com/nbm016/bollywood-data-analysis </b>
-  </li><br>
+  </li><br><br>
   
 <!-- 4 -->
 
