@@ -42,7 +42,7 @@ In addition to Technology, I have interests in Business and Art as well. I am al
 ### <b> 🎨 My Project Gallery 🎨 </b> <br>
 <ol>
   <!-- 1 -->
-  <li><b>Multi-Modal Skin Condition Classification - AI/ML - Skinterest Tech 2A (Break Through Tech AI – Fall AI Studio Group Project) </b><br><br>
+  <li><b>Multi-Modal Skin Condition Classification - AI/ML - Skinterest Tech 2A (Break Through Tech AI - Fall AI Studio Group Project) </b><br><br>
     <img width="1207" height="770" alt="image" src="https://github.com/user-attachments/assets/962bca02-9613-407e-92af-4b4658c273fa" />
     <img width="1205" height="772" alt="image" src="https://github.com/user-attachments/assets/3ebfbcc4-ae13-4160-98b2-89127a3d733c" />
     <br><br><br>
